@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "ucsim": {
+      "command": "ucsim-mcp",
+      "args": [],
+      "env": {
+        "UCSIM_CPU": "51",
+        "UCSIM_XTAL": "11.0592M"
+      }
+    }
+  }
+}
